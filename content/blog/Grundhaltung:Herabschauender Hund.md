@@ -3,7 +3,7 @@ title: "Herabschauender Hund/Grundposition"
 date: 2021-09-30T14:46:10+06:00
 description: "Positionen"
 type: "featured"
-image: "images/herabschauender_hund.jpg"
+image: "images/herabschauenderhund.jpg"
 categories: 
   - "Kinderyoga"
   - "Grundhaltungen"
