@@ -2,162 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Parsa Hugo | Personal Blog Template</title>
-    <link>https://examplesite.org/blog/</link>
+    <link>https://diyanananova.github.io/Knirpsenwelt/blog/</link>
     <description>Recent content in Blogs on Parsa Hugo | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://examplesite.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Sep 2021 14:46:10 +0600</lastBuildDate><atom:link href="https://diyanananova.github.io/Knirpsenwelt/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kinderyoga</title>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/kinderyoga/</link>
+      <pubDate>Thu, 30 Sep 2021 14:46:10 +0600</pubDate>
+      
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/kinderyoga/</guid>
+      <description>Was ist Yoga überhaupt? Yoga kommt aus Indien und wurde dort schon vor über 2000 Jahren gelehrt.</description>
+    </item>
+    
+    <item>
+      <title>Krabbel- &amp; Knirpse-Fit Gruppe 2</title>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/krabbel-knirpse-fit_gruppe2/</link>
+      <pubDate>Thu, 30 Sep 2021 14:46:10 +0600</pubDate>
+      
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/krabbel-knirpse-fit_gruppe2/</guid>
+      <description>Spielgruppen sind eine gute Möglichkeit für Kleinkinder, mit anderen Kindern zusammen zu sein, zu spielen und dabei wichtige Erfahrungen zu sammeln.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.</description>
+    </item>
+    
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.1/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.10/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/charming-evening-field.1/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.10/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.10/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.11/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/charming-evening-field.10/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.11/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.11/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.4/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/charming-evening-field.11/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.2/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.5/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/charming-evening-field.2/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.3/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.6/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/charming-evening-field.3/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.4/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.7/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/charming-evening-field.4/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.7/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.5/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.8/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/charming-evening-field.5/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.8/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.6/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.9/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/charming-evening-field.6/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field.9/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.7/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/charming-evening-field.7/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.8/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://examplesite.org/blog/charming-evening-field.8/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field.9/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://examplesite.org/blog/charming-evening-field.9/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Charming Evening Field</title>
-      <link>https://examplesite.org/blog/charming-evening-field/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://examplesite.org/blog/charming-evening-field/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://examplesite.org/blog/organize-your-life.1/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/organize-your-life.1/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://examplesite.org/blog/organize-your-life.2/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.2/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/organize-your-life.2/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://examplesite.org/blog/organize-your-life.3/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.3/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/organize-your-life.3/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://examplesite.org/blog/organize-your-life.4/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.4/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/organize-your-life.4/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://examplesite.org/blog/organize-your-life/</link>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/blog/organize-your-life/</guid>
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Krabbel- &amp; Knirpse-Fit Gruppe 1</title>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/krabbel-knirpse-fit_gruppe1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/krabbel-knirpse-fit_gruppe1/</guid>
+      <description>Mit 6 Monaten ist Ihr Baby tagsüber immer länger wach. In diesen Stunden möchte es beschäftigt werden.</description>
     </item>
     
   </channel>
