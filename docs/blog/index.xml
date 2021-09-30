@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Parsa Hugo | Personal Blog Template</title>
+    <title>Blogs on Knirpsenwelt</title>
     <link>https://diyanananova.github.io/Knirpsenwelt/blog/</link>
-    <description>Recent content in Blogs on Parsa Hugo | Personal Blog Template</description>
+    <description>Recent content in Blogs on Knirpsenwelt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Sep 2021 14:46:10 +0600</lastBuildDate><atom:link href="https://diyanananova.github.io/Knirpsenwelt/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Der Baum/Grundposition</title>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/grundhaltungder-baum/</link>
+      <pubDate>Thu, 30 Sep 2021 14:46:10 +0600</pubDate>
+      
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/grundhaltungder-baum/</guid>
+      <description>Herabschauender Hund für Kleinkinder: Stellt euch vor, ihr seid ein Baum.</description>
+    </item>
+    
+    <item>
+      <title>Die Kobra/Grundposition</title>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/grundhaltungdie-kobra/</link>
+      <pubDate>Thu, 30 Sep 2021 14:46:10 +0600</pubDate>
+      
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/grundhaltungdie-kobra/</guid>
+      <description>Herabschauender Hund für Kleinkinder: Nun verwandeln wir uns in eine Schlange.</description>
+    </item>
+    
+    <item>
+      <title>Herabschauender Hund/Grundposition</title>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/grundhaltungherabschauender-hund/</link>
+      <pubDate>Thu, 30 Sep 2021 14:46:10 +0600</pubDate>
+      
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/grundhaltungherabschauender-hund/</guid>
+      <description>Herabschauender Hund für Kleinkinder: Verwandelt euch in einen Hund. Geht auf alle Viere, bellt laut und wedelt mit dem Schwanz.</description>
+    </item>
+    
     <item>
       <title>Kinderyoga</title>
       <link>https://diyanananova.github.io/Knirpsenwelt/blog/kinderyoga/</link>
@@ -14,6 +41,15 @@
       
       <guid>https://diyanananova.github.io/Knirpsenwelt/blog/kinderyoga/</guid>
       <description>Was ist Yoga überhaupt? Yoga kommt aus Indien und wurde dort schon vor über 2000 Jahren gelehrt.</description>
+    </item>
+    
+    <item>
+      <title>Kinderyoga-Grundhaltungen</title>
+      <link>https://diyanananova.github.io/Knirpsenwelt/blog/yogapositionen/</link>
+      <pubDate>Thu, 30 Sep 2021 14:46:10 +0600</pubDate>
+      
+      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/yogapositionen/</guid>
+      <description>Kinderyoga ist anders als Yoga für Erwachsene – voll mit Fantasie.</description>
     </item>
     
     <item>
@@ -112,42 +148,6 @@
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>https://diyanananova.github.io/Knirpsenwelt/blog/charming-evening-field/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.1/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.2/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.3/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Organize Your Life With 10 Simple rule</title>
-      <link>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.4/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://diyanananova.github.io/Knirpsenwelt/blog/organize-your-life.4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
