@@ -47,19 +47,19 @@ link = "plugins/search/search.js"
 
 # navigation
 [[menu.main]]
-name = "Homepage"
+name = "Home"
 url = ""
 weight = 1
 hasChildren = true
 
   [[menu.main]]
-  parent = "Homepage"
-  name = "Homepage 1"
+  parent = "Home"
+  name = "Home 1"
   url = "homepage/home-1"
 
   [[menu.main]]
-  parent = "Homepage"
-  name = "Homepage 2"
+  parent = "Home"
+  name = "Home 2"
   url = "homepage/home-2"
 
 [[menu.main]]
@@ -74,7 +74,7 @@ weight = 3
 
 # deult parameter
 [params]
-logo = "images/logo.png"
+logo = "images/logo_kw.jpg"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
@@ -90,7 +90,7 @@ author_image = "images/banner-img.png"
 bio = "Ich bin Leiterin von Eltern-Kind-Kursen, Kinderyoga und Baby-Massage-Kursen"
 # Contact info
 mobile = "+49"
-email = "diyana.valeva@@gmail.com"
+email = "diyana.valeva@gmail.com"
 address = "Perl"
 # Contact Form Action
 contact_form_action = "#"
@@ -118,7 +118,7 @@ link = "#"
 
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/diyana-nanova-05520949/"
 
 [[params.social]]
 icon = "ti-github"

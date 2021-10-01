@@ -5,7 +5,7 @@ description: "Info"
 image: "images/visitenkarte.jpg"
 ---
 
-### Ich darf Sie herzlich auf meiner Seite "Knirpsenland" begrüßen!
+### Ich darf Sie herzlich auf meiner Seite "Knirpsenwelt" begrüßen!
 
 Mein Name ist **Diyana Nanova**.
 Ich bin verheiratet und selbst Mutter von 2 Kindern.
@@ -23,7 +23,7 @@ Im pädagogischen Bereich gibt es ein breites Spektrum an interessanten Baustein
   
   2.Eltern-Kind-Treffen
   
-  3.Baby-Schwimmen
+  3.Babymassage
   
 **Leiterin von Kursen für Erwachsene**
   
